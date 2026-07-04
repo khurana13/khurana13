@@ -1,7 +1,7 @@
 # Hi, I'm Sneha Khurana 👋
 
 🎓 B.Tech CSE Student specializing in **Digital Forensics & Cyber Security**  
-🔐 Interested in **Cybersecurity, Backend Development, Data Analytics and Business Intelligence**  
+🔐 Interested in **Cybersecurity, Software Development, Data Analytics and Business Intelligence**  
 💻 Building projects using **Python, SQL, JavaScript, Node.js, MongoDB, Tableau and Cybersecurity Tools**  
 🚀 Currently improving my skills in **DSA, Web Development, Data Analytics and Security**
 
@@ -10,7 +10,7 @@
 ## 🔥 About Me
 
 I am a final year Computer Science student with a strong interest in solving real-world problems using technology.  
-My work focuses on building practical projects in **cybersecurity, backend development, data analytics and business intelligence**.
+My work focuses on building practical projects in **cybersecurity, software development, data analytics and business intelligence**.
 
 I have hands-on exposure to tools and technologies such as **FTK, Autopsy, Cellebrite, HxD Editor, Python, SQL, Tableau, Node.js, Express.js, MongoDB and REST APIs**.
 
@@ -64,8 +64,8 @@ I enjoy learning by building projects and continuously improving my technical sk
 
 ## 🏆 Achievements & Experience
 
-- Cyber Security Intern — Gurugram Police  
-- Hands-on exposure to digital forensics tools such as **FTK, Autopsy, Cellebrite and HxD Editor**  
+- Cyber Security Intern - Gurugram Police, GPCSSI '25
+- Cyber Forensics Intern - Delhi Police, NCFL/IFSO '24 
 - Core Member — Manav Rachna InfoSec Army  
 - Dean’s List — Top 5%  
 - Finalist — E-Summit 2026, IIT BHU  
