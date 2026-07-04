@@ -1,20 +1,20 @@
 # Hi, I'm Sneha Khurana 👋
 
 🎓 B.Tech CSE Student specializing in **Digital Forensics & Cyber Security**  
-🔐 Interested in **Cybersecurity, Backend Development, Data Analytics, and Business Intelligence**  
-💻 Building projects using **Python, SQL, JavaScript, Node.js, MongoDB, Tableau, and Cybersecurity Tools**  
-🚀 Currently improving my skills in **DSA, Web Development, Data Analytics, and Security**
+🔐 Interested in **Cybersecurity, Backend Development, Data Analytics and Business Intelligence**  
+💻 Building projects using **Python, SQL, JavaScript, Node.js, MongoDB, Tableau and Cybersecurity Tools**  
+🚀 Currently improving my skills in **DSA, Web Development, Data Analytics and Security**
 
 ---
 
 ## 🔥 About Me
 
 I am a pre-final year Computer Science student with a strong interest in solving real-world problems using technology.  
-My work focuses on building practical projects in **cybersecurity, backend development, data analytics, and business intelligence**.
+My work focuses on building practical projects in **cybersecurity, backend development, data analytics and business intelligence**.
 
-I have hands-on exposure to tools and technologies such as **FTK, Autopsy, Cellebrite, HxD Editor, Python, SQL, Tableau, Node.js, Express.js, MongoDB, and REST APIs**.
+I have hands-on exposure to tools and technologies such as **FTK, Autopsy, Cellebrite, HxD Editor, Python, SQL, Tableau, Node.js, Express.js, MongoDB and REST APIs**.
 
-I enjoy learning by building projects and continuously improving my technical skills through coding, internships, certifications, and project-based learning.
+I enjoy learning by building projects and continuously improving my technical skills through coding, internships, certifications and project-based learning.
 
 ---
 
@@ -54,7 +54,7 @@ I enjoy learning by building projects and continuously improving my technical sk
 
 ### 🔐 SecureShield - File Encryption System
 
-A Python-based file encryption and decryption system using **AES-GCM, PBKDF2, SHA-256 hashing, and Tkinter GUI**.
+A Python-based file encryption and decryption system using **AES-GCM, PBKDF2, SHA-256 hashing and Tkinter GUI**.
 
 **Key Features:**
 - Secure file encryption and decryption
@@ -69,7 +69,7 @@ A Python-based file encryption and decryption system using **AES-GCM, PBKDF2, SH
 
 ### 📊 SalesMart Dashboard
 
-An interactive Tableau dashboard built using the Superstore dataset to analyze **sales, profit, category-wise performance, regional trends, and quantity distribution**.
+An interactive Tableau dashboard built using the Superstore dataset to analyze **sales, profit, category-wise performance, regional trends and quantity distribution**.
 
 **Key Features:**
 - Sales and profit analysis
@@ -84,7 +84,7 @@ An interactive Tableau dashboard built using the Superstore dataset to analyze *
 
 ### 🗄️ SQL Data Warehouse Project
 
-A complete SQL-based data warehouse project involving **data ingestion, cleaning, transformation, and analytical reporting**.
+A complete SQL-based data warehouse project involving **data ingestion, cleaning, transformation and analytical reporting**.
 
 **Key Features:**
 - Bronze and silver layer architecture
@@ -129,7 +129,7 @@ A Flask-based product recommendation and search tool using **TF-IDF and scikit-l
 
 ### ⚙️ RESTful User Management System
 
-A backend application built using **Node.js, Express.js, MongoDB, and JWT authentication**.
+A backend application built using **Node.js, Express.js, MongoDB and JWT authentication**.
 
 **Key Features:**
 - User authentication
@@ -158,7 +158,7 @@ A backend application built using **Node.js, Express.js, MongoDB, and JWT authen
 ## 🏆 Achievements & Experience
 
 - Cyber Security Intern — Gurugram Police  
-- Hands-on exposure to digital forensics tools such as **FTK, Autopsy, Cellebrite, and HxD Editor**  
+- Hands-on exposure to digital forensics tools such as **FTK, Autopsy, Cellebrite and HxD Editor**  
 - Core Member — Manav Rachna InfoSec Army  
 - Dean’s List — Top 5%  
 - Finalist — E-Summit 2026, IIT BHU  
@@ -199,7 +199,7 @@ A backend application built using **Node.js, Express.js, MongoDB, and JWT authen
 
 ## 🚀 My Goal
 
-To keep learning, building, and growing as a technology professional while contributing to meaningful projects in **cybersecurity, software development, and data analytics**.
+To keep learning, building, and growing as a technology professional while contributing to meaningful projects in **cybersecurity, software development and data analytics**.
 
 <!--
 **khurana13/khurana13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
