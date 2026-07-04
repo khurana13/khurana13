@@ -9,7 +9,7 @@
 
 ## 🔥 About Me
 
-I am a pre-final year Computer Science student with a strong interest in solving real-world problems using technology.  
+I am a final year Computer Science student with a strong interest in solving real-world problems using technology.  
 My work focuses on building practical projects in **cybersecurity, backend development, data analytics and business intelligence**.
 
 I have hands-on exposure to tools and technologies such as **FTK, Autopsy, Cellebrite, HxD Editor, Python, SQL, Tableau, Node.js, Express.js, MongoDB and REST APIs**.
