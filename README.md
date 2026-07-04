@@ -76,9 +76,9 @@ I enjoy learning by building projects and continuously improving my technical sk
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-khurana13-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khurana13)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khurana13)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sneha%20Khurana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-khurana-719263362/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-khurana-719263362/)
 
 ---
 
