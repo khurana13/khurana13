@@ -166,13 +166,6 @@ A backend application built using **Node.js, Express.js, MongoDB and JWT authent
 
 ---
 
-## 📊 GitHub Stats
-
-![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khurana13&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khurana13&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
