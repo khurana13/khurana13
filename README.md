@@ -21,35 +21,40 @@ I enjoy learning by building projects and continuously improving my technical sk
 ## 🛠️ Tech Stack
 
 ### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- Python
+- C++
+- JavaScript
+- SQL
 
 ### Web Development
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+- HTML
+- CSS
+- Node.js
+- Express.js
+- REST APIs
 
 ### Databases & Analytics
+- MongoDB
+- MySQL
+- SQL Server
+- Tableau
+- Pandas
+- Matplotlib
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+### Cybersecurity & Digital Forensics
+- Digital Forensics
+- Cybersecurity Fundamentals
+- FTK
+- Autopsy
+- Cellebrite
+- HxD Editor
+- Linux
 
-### Cybersecurity & Forensics
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E3440?style=for-the-badge&logo=hackthebox&logoColor=green)
-![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-4B0082?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Tableau Public
 ## 🎯 Currently Learning
 
 - Data Structures and Algorithms  
