@@ -85,19 +85,9 @@ I enjoy learning by building projects and continuously improving my technical sk
 
 ---
 
-## ✨ Quotes I Believe In
+## ✨ Quote I Believe In
 
-> “Without data, you are just another person with an opinion.”  
-> — W. Edwards Deming
-
-> “Security is not a product, but a process.”  
-> — Bruce Schneier
-
-> “The goal is to turn data into information, and information into insight.”  
-> — Carly Fiorina
-
-> “Code is like humor. When you have to explain it, it’s bad.”  
-> — Cory House
+> “The jack of all trades, is a master of None, but still better than a master of one.."
 
 ---
 
